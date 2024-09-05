@@ -1,6 +1,7 @@
 /* ----- NAVIGATION BAR FUNCTION ----- */
+const menuBtn = document.getElementById("myNavMenu");
 function myMenuFunction() {
-  let menuBtn = document.getElementById("myNavMenu");
+  
 
   if (menuBtn.className === "nav-menu") {
     menuBtn.className += " responsive";
@@ -8,6 +9,7 @@ function myMenuFunction() {
     menuBtn.className = "nav-menu";
   }
 }
+
 window.onscroll = function () {
   headerShadow();
 };
@@ -71,6 +73,14 @@ document
 /* ----- CHANGE ACTIVE LINK ----- */
 
 const sections = document.querySelectorAll("section[id]");
+const navLinks = document.querySelectorAll(".nav-link");
+
+navLinks.forEach((link) => {
+  link.addEventListener("click", () => {
+    console.log(link)
+    menuBtn.classList.remove("responsive");
+  });
+});
 
 function scrollActive() {
   const scrollY = window.scrollY;

@@ -702,8 +702,22 @@ footer {
     backdrop-filter: blur(20px);
     width: 100%;
     min-height: 450px;
-    height: 90vh;
+    height: 100vh;
     transition: 0.3s;
+  }
+  .active-link::after{
+    bottom: 15px;
+  }
+  .nav_list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  .nav-link{
+    width: 100%;
+    text-align: center;
   }
   .nav_menu_list {
     flex-direction: column;
