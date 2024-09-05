@@ -16,7 +16,7 @@ I enjoy transforming creative ideas into reality and continuously strive to lear
 
 ## 📄 Resume
 
-You can download my resume from [this link](/resume/Mustafa_Tutus_Resume.pdf) for a detailed overview of my professional background and experience.
+You can download my resume from [this link](./resume/Mustafa_Tutus_Resume.pdf) for a detailed overview of my professional background and experience.
 
 ## 📫 Get In Touch
 
