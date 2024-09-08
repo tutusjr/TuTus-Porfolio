@@ -109,7 +109,7 @@ const images = [
     url: "assets/images/amazon.png",
     alt: "AmazonClone",
     title: "Amazon Clone",
-    description: "Amazon clone project with React.js, Tailwind CSS, and Vite. Also used Axios, react-router, react-redux, and Swiper.",
+    description: "Amazon clone project with React.js, Tailwind CSS, and Vite. Also used Axios, react-router, react-redux, and Swiper. (not responsive)",
     repo: "https://github.com/tutusjr/amazon-clone",
     href: "https://amazon-clone-tutusjr.vercel.app",
   },
