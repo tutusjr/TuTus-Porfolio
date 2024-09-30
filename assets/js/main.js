@@ -107,15 +107,15 @@ window.addEventListener("scroll", scrollActive);
 const images = [
   {
     url: "assets/images/amazon.png",
-    alt: "Project 1",
+    alt: "AmazonClone",
     title: "Amazon Clone",
-    description: "Amazon clone project with React.js, Tailwind CSS, and Vite. Also used Axios, react-router, react-redux, and Swiper.",
+    description: "Amazon clone project with React.js, Tailwind CSS, and Vite. Also used Axios, react-router, react-redux, and Swiper. (not responsive)",
     repo: "https://github.com/tutusjr/amazon-clone",
     href: "https://amazon-clone-tutusjr.vercel.app",
   },
   {
     url: "assets/images/form-website.png",
-    alt: "Project 2",
+    alt: "FormWebsite",
     title: "Form Website",
     description:
       "Responsive form page with React.js, Tailwind, Vite and Formik-Yup validation",
@@ -124,7 +124,7 @@ const images = [
   },
   {
     url: "assets/images/ecommerce.png",
-    alt: "Project 3",
+    alt: "EcommerceWebsite",
     title: "Ecommerce Website",
     description: " Ecommerce fully responsive website with React.js, Tailwind CSS, Vite and flowbite-react, react-slick",
     href: "https://ecommerce-website-tutusjr.vercel.app",
@@ -132,17 +132,17 @@ const images = [
   },
   {
     url: "assets/images/greenharvest.png",
-    alt: "Project 4",
-    title: "Greenharvest",
+    alt: "GreenHarvest",
+    title: "Green Harvest",
     description:
-      "Group fully responsive project with HTML, CSS and JavaScript.",
+      "Project done as a team,fully responsive with HTML, CSS and JavaScript.",
     href: "https://tech-titans-tt.github.io/Green-Harvest/",
     repo: "https://github.com/Tech-Titans-TT/Green-Harvest",
   },
   {
     url: "assets/images/nike.png",
-    alt: "Project 5",
-    title: "Nike",
+    alt: "Nike2.0",
+    title: "Nike 2.0 Website",
     description:
       "NIKE V2 fully responsive project with React.js, Tailwind CSS and Vite",
     href: "https://nike-website-tutusjr.vercel.app",
@@ -150,8 +150,8 @@ const images = [
   },
   {
     url: "assets/images/caloriecard.png",
-    alt: "Project 6",
-    title: "Caloricard",
+    alt: "CalorieCard",
+    title: "Calorie-card",
     description:
       "My very first project fully responsive with React.js and SASS. Also used Formik-yup validation, react-modal, react-helmet, react-router-dom, react-slideshow-image ",
     href: "https://calorie-card.netlify.app",
@@ -159,17 +159,17 @@ const images = [
   },
   {
     url: "assets/images/x-clone.png",
-    alt: "Project 7",
+    alt: "XClone",
     title: "X Clone",
     description:
-      " X Clone fully responsive project with React.js, Tailwind CSS and Vite. Also used Virtua, prop-types, classnames, react-use, react-modal, react-router-dom",
+      " X Clone project with React.js, Tailwind CSS and Vite. Also used Virtua, prop-types, classnames, react-use, react-modal, react-router-dom. (not responsive)",
     href: "https://twitterclone-tutusjr.vercel.app",
     repo: "https://github.com/tutusjr/twitterClone",
   },
   {
     url: "assets/images/subs-website.png",
-    alt: "Project 8",
-    title: "Subs Website",
+    alt: "Subscription",
+    title: "Subscription Website",
     description:
       "Subs website fully responsive project with HTML, CSS and JavaScript.",
     href: "https://subscribe-website-tutusjr.vercel.app",
