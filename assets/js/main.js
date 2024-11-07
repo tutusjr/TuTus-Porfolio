@@ -56,9 +56,10 @@ document
     const templateID = "template_hcx98mh";
     const autoreply_templateID = "template_rym38pf";
 
-    emailjs
+   
+      emailjs
       .send(serviceID, templateID, params)
-      .then(function (response) {
+      .then(function () {
         alert("Email sent successfully!");
       })
       .catch(function (error) {
